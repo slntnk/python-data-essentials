@@ -6,5 +6,5 @@ This repository contains fundamental Python codes used in the data analytics lea
 📂 Data Manipulation (data_manipulation.py)
 This file includes essential operations from Pandas and NumPy, widely used in data analytics.
 
-📂Data Visualization (data_visualization.py)
+📂 Data Visualization (data_visualization.py)
 This file covers the basics of creating visualizations using Matplotlib and Seaborn.
