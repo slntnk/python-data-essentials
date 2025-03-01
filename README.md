@@ -8,4 +8,4 @@ This repository contains fundamental Python codes used in the data analytics lea
 This file includes essential operations from Pandas and NumPy, widely used in data analytics.
 
 📂 Data Visualization (data_visualization.py):
-This file covers the basics of creating visualizations using Matplotlib and Seaborn.
+In the visualization files (data_visualization.py and data_visualization.py2), basic data visualization techniques are discussed using Matplotlib and Seaborn libraries and different chart types are used for visualization.
